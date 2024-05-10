@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RicDevelop
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning Python (.py), CSS (.css) and HTML (.html)
+- 🌱 I’m currently learning Python (.py), CSS (.css), HTML (.html), JavaScript (.js)
 - 💞️ I’m looking to collaborate on GitHub and other Hubs of coding and developing
 - 📫 How to reach me: 📧ricdevelopingpublicmail@gmail.com
 - ⚡ Fun fact: I'm the Monster of Coding 😈
